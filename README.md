@@ -8,7 +8,7 @@
 # After the cities were retrieved, a series of scatterplots were created to find potential relationships
 # between Latitude vs. Temperature, Latitude vs. Humidity, Latitude vs. Cloudiness, Latitude vs. Wind Speed.
 
-# Next, another series of scatterplots was created to showcase the aboe mentioned relationships for each hemisphere
+# Next, another series of scatterplots was created to showcase the above mentioned relationships for each hemisphere
 # which were northern and southern hemispheres. So the following plots were created with linear regression lines to 
 # see if there was any potential effect latitude has on any of the following conditions:
 # Northern Hemisphere: Temperature vs. Latitude
